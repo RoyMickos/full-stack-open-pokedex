@@ -38,5 +38,5 @@ jobs:
           heroku_app_name: "full-stack-open-pokedex-mickos"
           heroku_email: "roy.mickos@vincit.fi"
           healthcheck: true
-          checkstring: "ok"
+          checkstring: 'ok'
 
